@@ -1,0 +1,10 @@
+{
+  "entry": {
+    "foo": "./index.js"
+  },
+  "minify": false,
+  "optimization": {
+    "skipModules": true,
+    "concatenateModules": false
+  }
+}
